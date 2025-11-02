@@ -134,3 +134,7 @@ training.json
 validation.json
 test.json
 Data_Embedding.zip
+*.md
+*.sh
+*.pdf
+*.DS_Store
